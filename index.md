@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-I was here.
+<h1>I was here.
 ---
